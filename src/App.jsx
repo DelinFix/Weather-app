@@ -1,4 +1,3 @@
-//todo строгая типизация
 
 import React, {useState} from "react"
 import WeatherInfo from "./components/WeatherInfo"
